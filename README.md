@@ -1,4 +1,4 @@
 - 👋🏻 Hi, I’m @Raxlitude
-- 👀 I’m interested in space science
-- 🌱 I’m currently learning Python (turtle)
+- 👀 I’m interested in astrophysics and games
+- 🌱 I’m currently learning Python
 - 📫 Contact my [Discord](https://dsc.bio/raxlitude) to reach me
